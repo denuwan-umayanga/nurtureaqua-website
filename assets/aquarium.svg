@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="650" viewBox="0 0 720 650" role="img" aria-labelledby="title desc">
+<title id="title">Illustration of a discus fish in a research aquarium</title>
+<desc id="desc">A stylized turquoise discus fish surrounded by concentric sonar rings and aquatic plants.</desc>
+<defs>
+ <radialGradient id="water" cx="50%" cy="38%" r="70%"><stop stop-color="#174a61"/><stop offset=".55" stop-color="#0a3044"/><stop offset="1" stop-color="#081e30"/></radialGradient>
+ <linearGradient id="fish" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d3fff2"/><stop offset=".28" stop-color="#7cdbc9"/><stop offset=".63" stop-color="#3cb1af"/><stop offset="1" stop-color="#19778e"/></linearGradient>
+ <linearGradient id="tail" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9de6d1"/><stop offset="1" stop-color="#2c8c9c"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d7ffed"/><stop offset="1" stop-color="#3aa8b3"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+ <clipPath id="bodyClip"><ellipse cx="353" cy="315" rx="142" ry="174" transform="rotate(-8 353 315)"/></clipPath>
+</defs>
+<rect width="720" height="650" rx="32" fill="url(#water)"/>
+<g opacity=".36" fill="none" stroke="#89d9cd" stroke-width="1">
+ <circle cx="365" cy="320" r="224"/><circle cx="365" cy="320" r="183"/><circle cx="365" cy="320" r="144"/><circle cx="365" cy="320" r="265" stroke-dasharray="4 12"/>
+ <path d="M365 20V621M63 320H665" opacity=".35"/>
+</g>
+<g fill="#95e8db"><circle cx="135" cy="117" r="3" opacity=".8"/><circle cx="564" cy="131" r="3"/><circle cx="530" cy="515" r="4"/><circle cx="164" cy="488" r="3"/><circle cx="442" cy="87" r="2"/></g>
+<g opacity=".32" filter="url(#blur)"><circle cx="286" cy="247" r="74" fill="#6ce0bb"/><circle cx="501" cy="409" r="64" fill="#35a4ba"/></g>
+<g fill="none" stroke="#62baac" stroke-width="4" stroke-linecap="round" opacity=".5">
+ <path d="M32 645C78 571 40 522 95 446"/><path d="M94 650C103 558 67 534 131 476"/><path d="M662 650C646 555 697 502 654 436"/><path d="M606 649C600 564 626 541 593 493"/>
+</g>
+<g fill="#3f9c91" opacity=".35"><ellipse cx="80" cy="552" rx="15" ry="45" transform="rotate(-20 80 552)"/><ellipse cx="115" cy="567" rx="16" ry="46" transform="rotate(27 115 567)"/><ellipse cx="647" cy="551" rx="16" ry="50" transform="rotate(21 647 551)"/></g>
+<!-- Fins behind the fish -->
+<path d="M240 242 Q184 174 185 108 Q252 150 302 163" fill="url(#tail)" opacity=".77"/>
+<path d="M228 381 Q186 435 197 502 Q274 485 319 462" fill="url(#tail)" opacity=".83"/>
+<path d="M487 299 Q544 271 584 216 Q590 313 540 380 Q522 367 479 348Z" fill="url(#tail)" stroke="#83d8d1" stroke-width="2"/>
+<path d="M470 297 Q506 312 540 338" stroke="#cafbee" stroke-width="2" fill="none" opacity=".6"/>
+<!-- body -->
+<ellipse cx="353" cy="315" rx="142" ry="174" transform="rotate(-8 353 315)" fill="url(#fish)" stroke="#d4fff1" stroke-width="3"/>
+<g clip-path="url(#bodyClip)" fill="none" stroke="#177d90" stroke-linecap="round" opacity=".47">
+ <path d="M266 142C233 240 270 366 247 481" stroke-width="14"/><path d="M306 133C276 244 319 373 297 501" stroke-width="15"/><path d="M355 137C327 244 367 384 352 509" stroke-width="14"/><path d="M406 153C384 258 423 373 411 482" stroke-width="12"/><path d="M454 185C445 265 468 350 468 445" stroke-width="10"/>
+ <path d="M229 238Q350 204 488 246M219 315Q358 281 498 327M231 386Q360 356 481 389" stroke="#edfff2" opacity=".25" stroke-width="6"/>
+</g>
+<path d="M226 282 Q212 313 224 343" stroke="#f2fff5" stroke-width="3" fill="none" opacity=".6"/>
+<path d="M244 337Q280 350 298 339" stroke="#1b7b83" stroke-width="3" fill="none" stroke-linecap="round"/>
+<circle cx="262" cy="286" r="13" fill="#0b3342" stroke="#e4fff5" stroke-width="3"/>
+<circle cx="258" cy="282" r="4" fill="#fff"/>
+<path d="M263 340Q271 343 279 339" fill="none" stroke="#f3ffef" stroke-width="2"/>
+<path d="M310 373 Q369 398 405 367" stroke="#c7fff0" stroke-width="2.5" opacity=".5" fill="none"/>
+<g font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#a4e6da" opacity=".85"><text x="40" y="48">NURTUREAQUA / SYSTEM VIEW</text><text x="532" y="610">FIG. 01</text></g>
+<g fill="none" stroke="#87d9cd" opacity=".48"><path d="M40 66H142M40 66V83M678 66H597M678 66V83M40 589H129M40 589V570M678 589H607M678 589V570"/></g>
+</svg>

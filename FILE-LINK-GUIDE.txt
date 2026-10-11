@@ -1,0 +1,43 @@
+NURTUREAQUA – DOCUMENT LINKS (SIMPLE SETUP)
+
+The website is the original design with only the announcement bar removed,
+marks removed, and the Documents page adjusted for easy viewing/downloading.
+
+CURRENTLY WORKING
+- Documents > Proposal Document > View PDF and Download.
+- The file is documents/proposal.pdf, kept from your original ZIP.
+
+ADDING GOOGLE DRIVE DOCUMENTS LATER
+1. Upload a PDF to Google Drive. Under Share > General access, choose
+   Anyone with the link, Viewer. Make sure downloads are allowed.
+2. Copy the FILE_ID from its Drive file URL:
+   https://drive.google.com/file/d/FILE_ID/view
+3. In documents.html find the correct document's card (<h3>... name ...</h3>).
+4. Change the status from Not uploaded to Available:
+   <span class="status available">Available</span>
+5. Replace the 'File will be added here' span with the links below,
+   replacing FILE_ID and changing filename/title as appropriate:
+
+<div class="doc-actions">
+  <a class="doc-btn view"
+     href="https://drive.google.com/file/d/FILE_ID/view"
+     target="_blank" rel="noopener noreferrer">View PDF</a>
+  <a class="doc-btn download"
+     href="https://drive.google.com/uc?export=download&amp;id=FILE_ID"
+     target="_blank" rel="noopener noreferrer">Download</a>
+</div>
+
+NOTE: Drive may show a confirmation screen for downloads. Test both links
+in a private browsing window before your viva. External Drive links are
+not yet connected in this package because no share URLs were supplied.
+Your course may require approval to host research files outside CourseWeb.
+
+ADDING LOCAL FILES
+- Add a PDF to the documents/ folder and link as in the existing proposal
+  buttons (View: target=_blank; Download: download attribute).
+
+IMPORTANT
+- No demo links or broken 'download' buttons were added for missing files.
+- The proposal PDF is the only actual PDF supplied in the original ZIP.
+- The web guidelines PDF asks for assessment dates and marks; these have
+  been removed from the public milestone page per your specific request.

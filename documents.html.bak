@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><meta content="#0c303b" name="theme-color"/><meta content="NurtureAqua project charter, proposal, checklists and final project documents." name="description"/><title>Documents | NurtureAqua</title><link href="assets/research-mark.svg" rel="icon" type="image/svg+xml"/><link href="assets/styles.css" rel="stylesheet"/></head><body><a class="skip" href="#main">Skip to content</a>
+<header class="header"><div class="wrap header-inner">
+<a aria-label="NurtureAqua home" class="brand" href="index.html"><img alt="" class="brand-icon" src="assets/research-mark.svg"/><span><span class="brand-name">NurtureAqua</span><span class="brand-tag">Discus breeding research</span></span></a>
+<nav aria-label="Primary navigation" class="nav"><a class="" href="index.html">Home</a><a class="" href="domain.html">Domain</a><a class="" href="milestones.html">Milestones</a><a aria-current="page" class="active" href="documents.html">Documents</a><a class="" href="presentations.html">Presentations</a><a class="" href="about.html">About Us</a><a class="" href="contact.html">Contact Us</a></nav>
+<a class="header-cta" href="domain.html">The research <span aria-hidden="true">↗</span></a>
+<details class="menu"><summary aria-label="Open site navigation">☰ Menu</summary><nav aria-label="Mobile navigation" class="menu-panel"><a class="" href="index.html">Home</a><a class="" href="domain.html">Domain</a><a class="" href="milestones.html">Milestones</a><a aria-current="page" class="active" href="documents.html">Documents</a><a class="" href="presentations.html">Presentations</a><a class="" href="about.html">About Us</a><a class="" href="contact.html">Contact Us</a></nav></details>
+</div></header><main id="main"><section class="page-hero"><div class="wrap"><div><div class="breadcrumbs"><a href="index.html">Home</a><span>›</span><span>Documents</span></div><div class="eyebrow">Research archive / Documents</div><h1>A clear record of<br/><em>the research.</em></h1><p>Documents already produced and those still pending.</p></div><aside class="hero-index"><small>Inside this section</small><strong>Charter · Proposal · Checklists · Final documents</strong></aside></div></section><section class="section white"><div class="wrap">
+<div class="docs-top"><div><div class="eyebrow">Research resources</div><h2>Document library</h2></div><span class="pill">Research files</span></div>
+<p class="doc-intro">Find the document you need below. Available files have separate buttons to open the PDF in a new tab or download a copy.</p>
+<div class="doc-grid">
+<article class="doc-card">
+<div class="doc-card-head"><span aria-hidden="true" class="file-icon">▤</span><span class="status pending">Not uploaded</span></div>
+<h3>Project Charter</h3><p>Team scope, roles and research commitments</p>
+<div class="doc-card-bottom"><span class="doc-file-name">project-charter.pdf</span><span class="doc-waiting">File will be added here</span></div>
+<!-- Once uploaded, replace the waiting text with View/Download links. See FILE-LINK-GUIDE.txt. -->
+</article>
+<article class="doc-card">
+<div class="doc-card-head"><span aria-hidden="true" class="file-icon">▤</span><span class="status available">Available</span></div>
+<h3>Proposal Document</h3><p>R26-IT-080 individual proposal (Member 03), March 2026, including references</p>
+<div class="doc-card-bottom"><span class="doc-file-name">proposal.pdf</span>
+<div class="doc-actions"><a aria-label="View Proposal Document PDF in a new tab" class="doc-btn view" href="documents/proposal.pdf" rel="noopener noreferrer" target="_blank"><span aria-hidden="true">◉</span> View PDF</a><a aria-label="Download Proposal Document PDF" class="doc-btn download" download="NurtureAqua-Member-03-Proposal.pdf" href="documents/proposal.pdf"><span aria-hidden="true">↓</span> Download</a></div>
+</div></article>
+<article class="doc-card">
+<div class="doc-card-head"><span aria-hidden="true" class="file-icon">▤</span><span class="status pending">Not uploaded</span></div>
+<h3>Checklist Documents</h3><p>Assessment and process checklists</p>
+<div class="doc-card-bottom"><span class="doc-file-name">checklists.pdf</span><span class="doc-waiting">File will be added here</span></div>
+</article>
+<article class="doc-card">
+<div class="doc-card-head"><span aria-hidden="true" class="file-icon">▤</span><span class="status pending">Not uploaded</span></div>
+<h3>Final Group Report</h3><p>Integrated report with the four individual reports</p>
+<div class="doc-card-bottom"><span class="doc-file-name">final-group-report.pdf</span><span class="doc-waiting">File will be added here</span></div>
+</article>
+<article class="doc-card">
+<div class="doc-card-head"><span aria-hidden="true" class="file-icon">▤</span><span class="status pending">Not uploaded</span></div>
+<h3>Research Paper</h3><p>NurtureAqua: a multimodal intelligent decision support framework</p>
+<div class="doc-card-bottom"><span class="doc-file-name">research-paper.pdf</span><span class="doc-waiting">File will be added here</span></div>
+</article>
+<article class="doc-card"><div class="doc-card-head"><span aria-hidden="true" class="file-icon">▤</span><span class="status pending">Not uploaded</span></div><h3>Member 01 — Water Quality Thesis</h3><p>Individual research on water appearance, structured water-risk analysis and sensor/manual readings.</p><div class="doc-card-bottom"><span class="doc-file-name">member-01-thesis.pdf</span><span class="doc-waiting">File will be added here</span></div></article><article class="doc-card"><div class="doc-card-head"><span aria-hidden="true" class="file-icon">▤</span><span class="status pending">Not uploaded</span></div><h3>Member 02 — Disease Thesis</h3><p>Individual research on species verification, visual disease screening and retrieval-grounded support.</p><div class="doc-card-bottom"><span class="doc-file-name">member-02-thesis.pdf</span><span class="doc-waiting">File will be added here</span></div></article><article class="doc-card"><div class="doc-card-head"><span aria-hidden="true" class="file-icon">▤</span><span class="status pending">Not uploaded</span></div><h3>Member 03 — Breeding Thesis</h3><p>Individual research on readiness, egg conditions, fry support and tank or breeding-cycle context.</p><div class="doc-card-bottom"><span class="doc-file-name">member-03-thesis.pdf</span><span class="doc-waiting">File will be added here</span></div></article><article class="doc-card"><div class="doc-card-head"><span aria-hidden="true" class="file-icon">▤</span><span class="status pending">Not uploaded</span></div><h3>Member 04 — Measurement Thesis</h3><p>Individual research on calibrated fish measurement, biomass estimation and crowding forecasts.</p><div class="doc-card-bottom"><span class="doc-file-name">member-04-thesis.pdf</span><span class="doc-waiting">File will be added here</span></div></article></div>
+<p class="info-note" style="margin-top:23px">The proposal PDF is included and can be viewed or downloaded now. More document links can be added here later, including Google Drive files. See <code>FILE-LINK-GUIDE.txt</code> in the website folder for exact steps.</p>
+</div></section></main><footer class="foot"><div class="wrap"><div class="foot-grid"><div>
+<a class="brand" href="index.html"><img alt="" class="brand-icon" src="assets/research-mark.svg"/><span><span class="brand-name">NurtureAqua</span><span class="brand-tag">Discus breeding research</span></span></a>
+<p>Project R26-IT-080: An AI-Based Predictive and Explainable Whole-Lifecycle Management System for Discus Fish.</p></div>
+<div><h4>Explore</h4><a class="link" href="index.html">Home</a><a class="link" href="domain.html">Research domain</a><a class="link" href="milestones.html">Milestones</a></div>
+<div><h4>Resources</h4><a class="link" href="documents.html">Documents</a><a class="link" href="presentations.html">Presentations</a><a class="link" href="about.html">Research team</a></div>
+<div><h4>Academic information</h4><a class="link" href="contact.html">Contact the team</a><p>Project group R26-IT-080<br/>SLIIT · Sri Lanka</p></div>
+</div><div class="foot-bottom"><span>© 2026 NurtureAqua · SLIIT research project R26-IT-080</span><span>Built with <strong>HTML + CSS</strong> · Lightweight &amp; responsive</span></div></div></footer></body></html>

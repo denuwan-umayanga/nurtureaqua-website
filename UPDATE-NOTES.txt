@@ -1,0 +1,17 @@
+NurtureAqua balanced four-component academic website — October 2026
+
+Source: Common Integrated Solution Report (revised, October 2026).
+The visual design and homepage discus fish image were preserved from the approved version.
+
+Content updates:
+- Home: equal Water / Disease / Breeding / Measurement + Crowding cards.
+- Domain: research background, gap, methodology, four matched expandable component profiles and evidence caveats.
+- Team: member numbers, roles and IDs from the group report; existing emails/placeholders unchanged.
+- Milestones: progression described across all four components; no mark allocations added.
+- Documents: added pending individual theses for all four members. Existing proposal PDF still works.
+
+IMPORTANT BEFORE SUBMISSION:
+1. Connect the currently unavailable research PDF and presentation files to approved hosting.
+2. Verify the document links, final actual team emails, official milestones and any later test results.
+3. The report distinguishes completed component tests from proposed system-wide integration tests.
+4. The previously provided homepage fish art is retained as-is.
